@@ -1,0 +1,25 @@
+{
+    "name": "qbset/xcore-athletics",
+    "description": "Canvas Theme",
+    "keywords": ["canvas", "theme"],
+    "type": "canvas-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Willem Peters",
+            "email": "info@qbset.com"
+        }
+    ],
+    "require": {
+        "cnvs/easel": "*"
+    },
+    "extra": {
+        "canvas-theme": {
+            "title": "XCORE athletics",
+            "directories": {
+                "public": "public",
+                "views": "resources/views"
+            }
+        }
+    }
+}
